@@ -5271,7 +5271,7 @@ value = 0;
 },
 {
 name = winAscent;
-value = 757;
+value = 995;
 },
 {
 name = winDescent;
